@@ -1,0 +1,2 @@
+{"url":"https://example.com/auth","title":"Authentication","markdown":"# Authentication\nAuthenticate each request with an API token in the Authorization header."}
+{"url":"https://example.com/limits","title":"Rate limits","markdown":"# Rate limits\nWait and retry when a request returns HTTP 429."}
